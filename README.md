@@ -3,10 +3,11 @@ This repository is also my interview task for ISP RAS Information systems depart
 
 
 ## Task structure
-1. Use pretrained CLIP for a random image and text labels
+1. Use pretrained CLIP for a random image and text labels 
 1. Evaluate CLIP on Imagenette dataset   
 1. Choose a model trained on ImageNet, compare it with CLIP 
-1. Try to improve CLIP with prompt-based approaches, linear probing etc.
+1. Try to improve CLIP with prompt-based approaches
+2. Try to improve CLIP with linear probing
 
 
 ## Example
